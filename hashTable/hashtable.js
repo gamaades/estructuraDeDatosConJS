@@ -74,7 +74,7 @@ myHashTable.set('Diego', 1990);
 myHashTable.set('Mariana', 1998);
 myHashTable.set('mama', 1966);
 myHashTable.set('elena', 2000);
-myHashTable.get('franz');
+/* myHashTable.get('franz');
 myHashTable.keys();
 myHashTable.delete('mama');
-myHashTable.keys();
+myHashTable.keys(); */
